@@ -1,0 +1,5 @@
+# Node.js and npm are required to run the JavaScript scripts.
+# Install Node.js version 22.13.1 and npm version 10.9.2 from https://nodejs.org/
+
+# Puppeteer is the main library used for web scraping.
+puppeteer==24.8.0
