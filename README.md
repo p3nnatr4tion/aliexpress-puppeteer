@@ -44,6 +44,10 @@ This will install **Puppeteer** and other dependencies defined in `package.json`
 The project uses **Puppeteer 24.8.0**, which is specified in the `requirements.txt`. Install the required version using npm:
 
 ```bash
+npm install puppeteer
+```
+or
+```bash
 npm install puppeteer@24.8.0
 ```
 
